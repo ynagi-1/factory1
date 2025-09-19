@@ -1,4 +1,4 @@
 package org.example;
-public interface Car {
+interface Car {
     void drive();
 }
